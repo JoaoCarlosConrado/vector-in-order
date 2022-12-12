@@ -4,9 +4,8 @@ Biblioteca em C para criar um vetor ordenado, adicionar no vetor e remover no ve
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+Essas instruções permitirão que você compile e posso usar a biblioteca em seu projeto.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
@@ -30,6 +29,8 @@ Execute:
 ```
 gcc -c ordvetor.c
 ```
+
+Será gerado um arquivo chamado ordvetor.o
 
 Exemplo de como compilar junto com seu código:
 
